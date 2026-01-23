@@ -4,9 +4,9 @@
 Курс посвящен изучению основ машинного обучения, нейронных сетей, обработки изображений, видео и текстов.
 ### Организационные документы
 
-[Файл](https://docs.google.com/document/d/1PJW4Jj5d7W4QLy5MsBlRZmR1dJvKZu1J1Vjh9uLVvqI/edit?usp=sharing) с заданием на лабораторные работы
+[Файл](https://disk.360.yandex.ru/i/svIHbTaDFABX4w) с заданием на лабораторные работы
 
-[Файл](https://docs.google.com/spreadsheets/d/1zU3V82i7TL2-tSn2ysfPcIcsimtboxAPig6SIaun1fM/edit?usp=sharing) с результатами сдачи лабораторных работ (в процессе разработки).
+[Файл](https://disk.360.yandex.ru/i/PHz0u97vHk6kNw) с результатами сдачи лабораторных работ (в процессе разработки).
 
 ### Тетрадки к лекциям
 
