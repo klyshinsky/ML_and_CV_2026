@@ -14,3 +14,6 @@
 [Лекция 2026.01.16](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260116_Pandas.ipynb) - Pandas
 
 [Лекция 2026.01.23](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260123_image_processing.ipynb) - Обрабока изображений.
+
+[Лекция 2026.01.30](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260130_clustering.ipynb) - Кластеризация.
+
