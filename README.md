@@ -8,6 +8,8 @@
 
 [Файл](https://disk.360.yandex.ru/i/PHz0u97vHk6kNw) с результатами сдачи лабораторных работ (в процессе разработки).
 
+[Ссылка](https://clck.ru/3RQtJU) на трансляцию лекций.
+
 ### Тетрадки к лекциям
 
 [Лекция 2026.01.16](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260116_numpy.ipynb) - Numpy  
@@ -17,3 +19,4 @@
 
 [Лекция 2026.01.30](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260130_clustering.ipynb) - Кластеризация.
 
+[Лекция 2026.02.20](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260220_OpenCV.ipynb) - Обработка видео при помощи OpenCV.
