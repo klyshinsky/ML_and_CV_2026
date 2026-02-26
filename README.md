@@ -20,3 +20,10 @@
 [Лекция 2026.01.30](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260130_clustering.ipynb) - Кластеризация.
 
 [Лекция 2026.02.20](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260220_OpenCV.ipynb) - Обработка видео при помощи OpenCV.
+
+[Лекция 2026.02.20](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260220_Classification.ipynb) - методы классификации (к ближайших соседей, регрессия).  
+
+[Лекция 2026.02.27](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260227_DecisionTrees.ipynb) - деревья принятия решений
+
+[Лекция 2026.02.27](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260227_Ensamble.ipynb) - ансемблирование
+
