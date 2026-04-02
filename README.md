@@ -27,3 +27,6 @@
 
 [Лекция 2026.02.27](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260227_Ensamble.ipynb) - ансемблирование
 
+[Лекция 2026.06.03](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260403_1_regexp.ipynb) - регулярные выражения  
+[Лекция 2026.06.03](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260403_2_requests.ipynb) - получение данных по https при помощи requests
+
