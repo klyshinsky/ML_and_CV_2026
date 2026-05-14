@@ -33,3 +33,6 @@
 [Лекция 2026.04.10](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260410_text_processing.ipynb) - Обработка текстов.
 
 [Лекция 2026.04.14](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260414_W2V_Bert.ipynb) - Тематическое моделирование. Векоризация текстов с использованием Word2Vec.
+
+[Лекция 2026.05.15](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260515_MLP.ipynb) - Многослойный персептрон.
+
