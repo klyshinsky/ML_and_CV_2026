@@ -8,7 +8,7 @@
 
 [Файл](https://disk.360.yandex.ru/i/PHz0u97vHk6kNw) с результатами сдачи лабораторных работ (в процессе разработки).
 
-[Ссылка](https://clck.ru/3RQtJU) на трансляцию лекций.
+. # [Ссылка](https://clck.ru/3RQtJU) на трансляцию лекций.
 
 ### Тетрадки к лекциям
 
@@ -36,3 +36,5 @@
 
 [Лекция 2026.05.15](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260515_MLP.ipynb) - Многослойный персептрон.
 
+Лекция 2026.06.19 [Часть 1](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260619_CNN.ipynb) - Свёрточные нейронные сети.  
+[Часть 2](https://github.com/klyshinsky/ML_and_CV_2026/blob/main/Lecture_20260619_Applied_Networks.ipynb) - Несколько примеров применения современных нейросетей.
